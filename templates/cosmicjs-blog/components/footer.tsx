@@ -9,7 +9,7 @@ export default function Footer() {
             Statically Generated with Next.js.
           </h3>
           <div className="flex flex-col lg:flex-row justify-end items-center pl-4 w-1/2">
-            <a href={'https://github.com/ragingwind/next-templates/templates'} className="mx-3 font-medium hover:underline">
+            <a href={'https://github.com/ragingwind/next-templates'} className="mx-3 font-medium hover:underline">
               View on GitHub
             </a>
           </div>
