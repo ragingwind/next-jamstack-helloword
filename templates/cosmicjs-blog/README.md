@@ -1,6 +1,6 @@
 # Cosmicjs Blog with Next.js
 
-> A statically generated blog example using Next.js and Cosmicjs.
+> A statically generated blog example using Next.js and Cosmicjs. Base blog template has been inspired heavily from [Next.js blog examples](https://github.com/zeit/next.js/tree/canary/examples/blog-starter) and tweaked it simpler to understand how JAMStack works.
 
 # Demo
 [https://next-cosmicjs-blog.now.sh/](https://next-cosmicjs-blog.now.sh/)
