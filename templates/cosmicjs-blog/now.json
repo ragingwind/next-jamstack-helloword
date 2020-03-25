@@ -1,0 +1,12 @@
+{
+  "env": {
+    "NEXT_TEMPLATE_COSMICJS_OBJECT_ID": "@next_template_cosmicjs_object_id",
+    "NEXT_TEMPLATE_COSMICJS_READ_KEY": "@next_template_cosmicjs_read_key"
+  },
+  "build": {
+    "env": {
+      "NEXT_TEMPLATE_COSMICJS_OBJECT_ID": "@next_template_cosmicjs_object_id",
+      "NEXT_TEMPLATE_COSMICJS_READ_KEY": "@next_template_cosmicjs_read_key"
+    }
+  }
+}

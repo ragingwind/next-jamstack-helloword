@@ -4,7 +4,7 @@
 
 # Templates
 
-- cosmicjs-blog: Blog with CosmicJS
+- cosmicjs-blog: Blog with Next.js and CosmicJS
 
 # License
 
