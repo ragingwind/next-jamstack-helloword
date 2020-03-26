@@ -3,7 +3,7 @@
 > A statically generated blog example using Next.js and Cosmicjs. Base blog template has been inspired heavily from [Next.js blog examples](https://github.com/zeit/next.js/tree/canary/examples/blog-starter) and tweaked it simpler to understand how JAMStack works.
 
 # Demo
-[next-faunadb-blog.now.sh/](next-faunadb-blog.now.sh/)
+[next-faunadb-blog.now.sh](https://next-faunadb-blog.now.sh/)
 
 # Configuration
 
