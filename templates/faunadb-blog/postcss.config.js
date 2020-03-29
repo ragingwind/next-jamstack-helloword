@@ -7,12 +7,12 @@ module.exports = {
           {
             content: [
               './pages/**/*.{js,jsx,ts,tsx}',
-              './components/**/*.{js,jsx,ts,tsx}',
+              './node_modules/@next-template/components/*.{js,jsx,ts,tsx}'
             ],
-            defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || [],
-          },
+            defaultExtractor: content => content.match(/[\w-/:]+(?<!:)/g) || []
+          }
         ]
       : undefined,
-    'postcss-preset-env',
-  ],
+    'postcss-preset-env'
+  ]
 }

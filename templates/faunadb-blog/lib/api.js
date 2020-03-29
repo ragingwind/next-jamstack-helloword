@@ -42,7 +42,12 @@ export async function getPosts() {
 
   const data = await request(query)
 
-  return data.posts.data
+  return data.posts.data.map(d => {
+    return {
+      ...d,
+      slug: d._id
+    }
+  })
 }
 
 export async function getPost(id) {
