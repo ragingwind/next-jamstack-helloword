@@ -1,8 +1,9 @@
 import Head from 'next/head'
-import Layout from '@next-template/components/layout'
-import Hero from '@next-template/components/hero'
-import Container from '@next-template/components/container'
-import Post from '@next-template/components/post'
+import {Layout, Hero, Container, Post} from '@next-template/components/blog'
+// import Layout from '@next-template/components/layout'
+// import Hero from '@next-template/components/hero'
+// import Container from '@next-template/components/container'
+// import Post from '@next-template/components/post'
 import { getPosts, getPost } from '../../lib/api'
 
 export default function Index({ post }) {
