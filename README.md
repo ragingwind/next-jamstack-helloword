@@ -4,7 +4,8 @@
 
 # Templates
 
-- cosmicjs-blog: Blog with Next.js and CosmicJS
+- cosmicjs-blog: CosmicJS, Nextjs
+- faunadb-blob: FaunaDB, Nextjs
 
 # License
 
