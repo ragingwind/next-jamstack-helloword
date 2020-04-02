@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@next-template/components": "^1.1.0",
+    "@next-template/components": "^1.2.0",
     "next": "latest",
     "node-fetch": "^2.6.0",
     "react": "^16.13.1",
