@@ -1,0 +1,10 @@
+{
+  "env": {
+    "NEXT_TEMPLATE_FAUNADB_SECRET": "@next_template_faunadb_secret"
+  },
+  "build": {
+    "env": {
+      "NEXT_TEMPLATE_FAUNADB_SECRET": "@next_template_faunadb_secret"
+    }
+  }
+}
