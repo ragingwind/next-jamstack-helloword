@@ -3,3 +3,4 @@ build
 .env
 .next
 yarn.lock
+.now
