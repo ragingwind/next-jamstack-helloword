@@ -945,10 +945,10 @@
     postcss "7.0.27"
     purgecss "^2.1.0"
 
-"@next-template/components@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@next-template/components/-/components-1.1.0.tgz#3f52d1e2a3688ca19f7d92dfbb3c563c8c3b2121"
-  integrity sha512-3cJV0urWDyb91FgZblQHEIFqc973Yw/bw2156eWpOhcHCIz8KcLkbvWX3+L2aDq//i1kbjeSd3X9jilW4WtrlA==
+"@next-template/components@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@next-template/components/-/components-1.2.0.tgz#0c708acfd7088c62df9b4c9af985bdd5693472da"
+  integrity sha512-Nffi0lcP5RF5u3tjcytoxo2VgTTgFoAkRuWXYSvGE3aHYjNpJqEP/MscSGwlGxncity7VI4j+A/YxNVR8V3wlQ==
 
 "@next/polyfill-nomodule@9.3.3":
   version "9.3.3"
@@ -4028,10 +4028,15 @@ node-emoji@^1.8.1:
   dependencies:
     lodash.toarray "^4.4.0"
 
-node-fetch@2.6.0, node-fetch@^2.6.0:
+node-fetch@2.6.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
   integrity sha512-8dG4H5ujfvFiqDmVu9fQ5bOHUC15JMjMY/Zumv26oOvvVJjM67KF8koCWIabKQ1GJIa9r2mMZscBq/TbdOcmNA==
+
+node-fetch@^2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
+  integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
 
 node-libs-browser@^2.2.1:
   version "2.2.1"
